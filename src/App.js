@@ -1,3 +1,4 @@
+//iniciando os exercícios de fixação
 import React, { Component } from 'react';
 import Home from './components/Home';
 
